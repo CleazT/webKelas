@@ -1,0 +1,12 @@
+{
+  "name": "webkelas",
+  "version": "1.0.0",
+  "description": "Ini adalah Website Kelas XPPLG 3",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CleazT",
+  "license": "ISC"
+}
